@@ -9,7 +9,7 @@ Desenvolvedor Front-end
   <img align="center" alt="pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="pablo-Tw" height="30" width="40" src="[https://www.svgrepo.com/show/333609/tailwind-css.svg](https://www.svgrepo.com/show/333609/tailwind-css.svg)">
+  <img align="center" alt="pablo-Tw" height="30" width="40" src="https://www.svgrepo.com/show/333609/tailwind-css.svg">
  <img align="center" alt="pablo-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="pablo-angular-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="pablo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
