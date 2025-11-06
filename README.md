@@ -1,4 +1,4 @@
-# ☕ Pablo Queiroz - Desenvolvedor Front-End
+## ☕ Pablo Queiroz - Desenvolvedor Front-End
 
 ---
 
@@ -8,7 +8,7 @@ Sou desenvolvedor **front-end** e estudante de **Ciência da Computação**, apa
 
 ---
 
-###Tecnologias
+### Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
