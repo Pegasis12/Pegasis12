@@ -7,7 +7,7 @@
 
 <span align="justify">
 
-Sou desenvolvedor **front-end** e estudante de **Ciência da Computação**, apaixonado por **programação**, **design** e **tecnologia** como forma de transformar ideias em experiências digitais.
+I'm a front-end developer and Computer Science student, passionate about creating modern, functional, and accessible interfaces. I have a strong interest in programming, design, and technology, always striving to turn ideas into high-quality digital solutions.
   
 </span>
 
