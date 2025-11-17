@@ -1,39 +1,37 @@
-## ☕ Pablo Queiroz - Desenvolvedor Front-End
+<span align="center">
 
----
+## *Olá, seja bem-vindo(a) ao meu perfil no GitHub!*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+mundo!+Eu+sou+o+Pegasis.;Desenvolvedor+Front-end+apaixonado+por+tecnologia!;Fique+à+vontade!)](https://git.io/typing-svg)
 
-### Sobre mim
+</span>
 
-Sou desenvolvedor **front-end** e estudante de **Ciência da Computação**, apaixonado por **programação**, **design** e **tecnologia** como forma de transformar ideias em experiências digitais.
+<span align="justify">
 
----
+Sou desenvolvedor **front-end** e estudante de **Ciência da Computação**, apaixonado por criar interfaces modernas, funcionais e acessíveis.  
+Tenho grande interesse em **programação**, **design** e **tecnologia**, buscando sempre transformar ideias em soluções digitais de qualidade.
 
-### Tecnologias
+</span>
+
+#
+
+<span align="center">
+  
+<div align="center">
+  <a href="https://github.com/Pegasis12">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pegasis12&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasis12&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+  </a>
+</div>
+
+[![Atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Pegasis12&bg_color=0d1117&color=b1633f&line=b1633f&point=b1633f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="pablo-Tw" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg">
-    <img align="center" alt="pablo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="pablo-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="pablo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,figma,ts" />
+  </a>
+</p>
 </div>
 
----
-
-<div>
-  <a href="https://github.com/Pegasis12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pegasis12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasis12&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
-<div> 
-  <a href="https://www.instagram.com/pablolucasqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/320009764744462348" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:plsantana246@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pablo-queiroz-807a0118b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</span>
